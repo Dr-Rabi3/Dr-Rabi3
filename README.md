@@ -13,7 +13,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY Portfolio](https://mohamedabdalrazek.vercel.app/) and [MY resume](https://drive.google.com/file/d/1GeB1NCqKzXLW9A07HSRpc067XvLORyQC/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY Portfolio](https://mohamedabdalrazek.vercel.app/) and [MY resume](https://docs.google.com/document/d/1A5zO4B0ylm6xo_IU1wkVB9I7EEXDcAlPudRKESVg1YU/edit?usp=sharing).
   <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
     <br> -->
 
